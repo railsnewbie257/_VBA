@@ -1,0 +1,368 @@
+
+C:\Oge\VBA>find /v /c ""  Alerts_MOD.bas 
+
+---------- ALERTS_MOD.BAS: 13
+
+C:\Oge\VBA>find /v /c ""  Array_MOD.bas 
+
+---------- ARRAY_MOD.BAS: 10
+
+C:\Oge\VBA>find /v /c ""  a_Dahl_MOD.bas 
+
+---------- A_DAHL_MOD.BAS: 63
+
+C:\Oge\VBA>find /v /c ""  A_Globals_MOD.bas 
+
+---------- A_GLOBALS_MOD.BAS: 163
+
+C:\Oge\VBA>find /v /c ""  a__A_MOD.bas 
+
+---------- A__A_MOD.BAS: 25
+
+C:\Oge\VBA>find /v /c ""  A__Text_MOD.bas 
+
+---------- A__TEXT_MOD.BAS: 12
+
+C:\Oge\VBA>find /v /c ""  Box_MOD.bas 
+
+---------- BOX_MOD.BAS: 32
+
+C:\Oge\VBA>find /v /c ""  Callbacks_MOD.bas 
+
+---------- CALLBACKS_MOD.BAS: 21
+
+C:\Oge\VBA>find /v /c ""  Clipboard_MOD.bas 
+
+---------- CLIPBOARD_MOD.BAS: 39
+
+C:\Oge\VBA>find /v /c ""  CollapseApt_MOD.bas 
+
+---------- COLLAPSEAPT_MOD.BAS: 61
+
+C:\Oge\VBA>find /v /c ""  ColorUtils_MOD.bas 
+
+---------- COLORUTILS_MOD.BAS: 186
+
+C:\Oge\VBA>find /v /c ""  ColumnUtils_MOD.bas 
+
+---------- COLUMNUTILS_MOD.BAS: 304
+
+C:\Oge\VBA>find /v /c ""  Comment_MOD.bas 
+
+---------- COMMENT_MOD.BAS: 9
+
+C:\Oge\VBA>find /v /c ""  ConvertUTC_Mod.bas 
+
+---------- CONVERTUTC_MOD.BAS: 16
+
+C:\Oge\VBA>find /v /c ""  CountOf_MOD.bas 
+
+---------- COUNTOF_MOD.BAS: 42
+
+C:\Oge\VBA>find /v /c ""  DailyProcessing_MOD.bas 
+
+---------- DAILYPROCESSING_MOD.BAS: 522
+
+C:\Oge\VBA>find /v /c ""  DatabaseAccess_MOD.bas 
+
+---------- DATABASEACCESS_MOD.BAS: 218
+
+C:\Oge\VBA>find /v /c ""  DBConnect_MOD.bas 
+
+---------- DBCONNECT_MOD.BAS: 22
+
+C:\Oge\VBA>find /v /c ""  DBCreateTable_MOD.bas 
+
+---------- DBCREATETABLE_MOD.BAS: 43
+
+C:\Oge\VBA>find /v /c ""  DBDrillDown_MOD.bas 
+
+---------- DBDRILLDOWN_MOD.BAS: 62
+
+C:\Oge\VBA>find /v /c ""  DBInsert_MOD.bas 
+
+---------- DBINSERT_MOD.BAS: 60
+
+C:\Oge\VBA>find /v /c ""  DBQuery2_MOD.bas 
+
+---------- DBQUERY2_MOD.BAS: 153
+
+C:\Oge\VBA>find /v /c ""  DBQueryBuilder_MOD.bas 
+
+---------- DBQUERYBUILDER_MOD.BAS: 213
+
+C:\Oge\VBA>find /v /c ""  DBQuery_MOD.bas 
+
+---------- DBQUERY_MOD.BAS: 365
+
+C:\Oge\VBA>find /v /c ""  DBUpdate_MOD.bas 
+
+---------- DBUPDATE_MOD.BAS: 28
+
+C:\Oge\VBA>find /v /c ""  Decile_MOD.bas 
+
+---------- DECILE_MOD.BAS: 33
+
+C:\Oge\VBA>find /v /c ""  Deploy_MOD.bas 
+
+---------- DEPLOY_MOD.BAS: 78
+
+C:\Oge\VBA>find /v /c ""  Display_MOD.bas 
+
+---------- DISPLAY_MOD.BAS: 79
+
+C:\Oge\VBA>find /v /c ""  DoEvents_MOD.bas 
+
+---------- DOEVENTS_MOD.BAS: 5
+
+C:\Oge\VBA>find /v /c ""  Drilldown_MOD.bas 
+
+---------- DRILLDOWN_MOD.BAS: 30
+
+C:\Oge\VBA>find /v /c ""  Duplicates_MOD.bas 
+
+---------- DUPLICATES_MOD.BAS: 142
+
+C:\Oge\VBA>find /v /c ""  Fastload_MOD.bas 
+
+---------- FASTLOAD_MOD.BAS: 373
+
+C:\Oge\VBA>find /v /c ""  FieldsForm_MOD.bas 
+
+---------- FIELDSFORM_MOD.BAS: 1
+
+C:\Oge\VBA>find /v /c ""  File_MOD.bas 
+
+---------- FILE_MOD.BAS: 172
+
+C:\Oge\VBA>find /v /c ""  Filter_MOD.bas 
+
+---------- FILTER_MOD.BAS: 51
+
+C:\Oge\VBA>find /v /c ""  FindUtils_MOD.bas 
+
+---------- FINDUTILS_MOD.BAS: 59
+
+C:\Oge\VBA>find /v /c ""  Find_MOD.bas 
+
+---------- FIND_MOD.BAS: 103
+
+C:\Oge\VBA>find /v /c ""  Format_MOD.bas 
+
+---------- FORMAT_MOD.BAS: 38
+
+C:\Oge\VBA>find /v /c ""  GetValues_MOD.bas 
+
+---------- GETVALUES_MOD.BAS: 151
+
+C:\Oge\VBA>find /v /c ""  Goto_MOD.bas 
+
+---------- GOTO_MOD.BAS: 108
+
+C:\Oge\VBA>find /v /c ""  Highlight_MOD.bas 
+
+---------- HIGHLIGHT_MOD.BAS: 116
+
+C:\Oge\VBA>find /v /c ""  Identify_MOD.bas 
+
+---------- IDENTIFY_MOD.BAS: 61
+
+C:\Oge\VBA>find /v /c ""  LG_mod.bas 
+
+---------- LG_MOD.BAS: 348
+
+C:\Oge\VBA>find /v /c ""  Lookup_MOD.bas 
+
+---------- LOOKUP_MOD.BAS: 220
+
+C:\Oge\VBA>find /v /c ""  Markie_MOD.bas 
+
+---------- MARKIE_MOD.BAS: 460
+
+C:\Oge\VBA>find /v /c ""  MatchRowIndex_MOD.bas 
+
+---------- MATCHROWINDEX_MOD.BAS: 158
+
+C:\Oge\VBA>find /v /c ""  mDisconnected_MOD.bas 
+
+---------- MDISCONNECTED_MOD.BAS: 90
+
+C:\Oge\VBA>find /v /c ""  Misc_MOD.bas 
+
+---------- MISC_MOD.BAS: 4
+
+C:\Oge\VBA>find /v /c ""  mMeterLookBack_MOD.bas 
+
+---------- MMETERLOOKBACK_MOD.BAS: 5
+
+C:\Oge\VBA>find /v /c ""  mProximity_MOD.bas 
+
+---------- MPROXIMITY_MOD.BAS: 135
+
+C:\Oge\VBA>find /v /c ""  NoDups_MOD.bas 
+
+---------- NODUPS_MOD.BAS: 83
+
+C:\Oge\VBA>find /v /c ""  Parse_MOD.bas 
+
+---------- PARSE_MOD.BAS: 114
+
+C:\Oge\VBA>find /v /c ""  Phase_MOD.bas 
+
+---------- PHASE_MOD.BAS: 16
+
+C:\Oge\VBA>find /v /c ""  Pivot_MOD.bas 
+
+---------- PIVOT_MOD.BAS: 88
+
+C:\Oge\VBA>find /v /c ""  PowerOn_MOD.bas 
+
+---------- POWERON_MOD.BAS: 44
+
+C:\Oge\VBA>find /v /c ""  ProgressBar_MOD.bas 
+
+---------- PROGRESSBAR_MOD.BAS: 1
+
+C:\Oge\VBA>find /v /c ""  ProgressMeter_MOD.bas 
+
+---------- PROGRESSMETER_MOD.BAS: 56
+
+C:\Oge\VBA>find /v /c ""  ProximityGraph_MOD.bas 
+
+---------- PROXIMITYGRAPH_MOD.BAS: 29
+
+C:\Oge\VBA>find /v /c ""  QueryAnalyst_MOD.bas 
+
+---------- QUERYANALYST_MOD.BAS: 14
+
+C:\Oge\VBA>find /v /c ""  QueryParser_MOD.bas 
+
+---------- QUERYPARSER_MOD.BAS: 10
+
+C:\Oge\VBA>find /v /c ""  Range_MOD.bas 
+
+---------- RANGE_MOD.BAS: 94
+
+C:\Oge\VBA>find /v /c ""  Recordset_MOD.bas 
+
+---------- RECORDSET_MOD.BAS: 38
+
+C:\Oge\VBA>find /v /c ""  Ribbon_MOD.bas 
+
+---------- RIBBON_MOD.BAS: 5
+
+C:\Oge\VBA>find /v /c ""  RowsUtils_MOD.bas 
+
+---------- ROWSUTILS_MOD.BAS: 107
+
+C:\Oge\VBA>find /v /c ""  SaveModule_MOD.bas 
+
+---------- SAVEMODULE_MOD.BAS: 20
+
+C:\Oge\VBA>find /v /c ""  ScratchLib_MOD.bas 
+
+---------- SCRATCHLIB_MOD.BAS: 81
+
+C:\Oge\VBA>find /v /c ""  SheetLib_MOD.bas 
+
+---------- SHEETLIB_MOD.BAS: 129
+
+C:\Oge\VBA>find /v /c ""  ShellAndWait_MOD.bas 
+
+---------- SHELLANDWAIT_MOD.BAS: 252
+
+C:\Oge\VBA>find /v /c ""  ShellRun_MOD.bas 
+
+---------- SHELLRUN_MOD.BAS: 43
+
+C:\Oge\VBA>find /v /c ""  ShowDetail_MOD.bas 
+
+---------- SHOWDETAIL_MOD.BAS: 61
+
+C:\Oge\VBA>find /v /c ""  Show_MOD.bas 
+
+---------- SHOW_MOD.BAS: 117
+
+C:\Oge\VBA>find /v /c ""  Singletons_MOD.bas 
+
+---------- SINGLETONS_MOD.BAS: 133
+
+C:\Oge\VBA>find /v /c ""  Sort_MOD.bas 
+
+---------- SORT_MOD.BAS: 235
+
+C:\Oge\VBA>find /v /c ""  Split_MOD.bas 
+
+---------- SPLIT_MOD.BAS: 59
+
+C:\Oge\VBA>find /v /c ""  SQLParser_MOD.bas 
+
+---------- SQLPARSER_MOD.BAS: 38
+
+C:\Oge\VBA>find /v /c ""  SSNMeterStatus_MOD.bas 
+
+---------- SSNMETERSTATUS_MOD.BAS: 89
+
+C:\Oge\VBA>find /v /c ""  SSNUpload_MOD.bas 
+
+---------- SSNUPLOAD_MOD.BAS: 91
+
+C:\Oge\VBA>find /v /c ""  SSN_MOD.bas 
+
+---------- SSN_MOD.BAS: 276
+
+C:\Oge\VBA>find /v /c ""  Strings_MOD.bas 
+
+---------- STRINGS_MOD.BAS: 9
+
+C:\Oge\VBA>find /v /c ""  SystemCall_MOD.bas 
+
+---------- SYSTEMCALL_MOD.BAS: 46
+
+C:\Oge\VBA>find /v /c ""  TableMap_MOD.bas 
+
+---------- TABLEMAP_MOD.BAS: 230
+
+C:\Oge\VBA>find /v /c ""  TableUtils_MOD.bas 
+
+---------- TABLEUTILS_MOD.BAS: 159
+
+C:\Oge\VBA>find /v /c ""  Teradata_MOD.bas 
+
+---------- TERADATA_MOD.BAS: 155
+
+C:\Oge\VBA>find /v /c ""  Timer_MOD.bas 
+
+---------- TIMER_MOD.BAS: 35
+
+C:\Oge\VBA>find /v /c ""  TPT_MOD.bas 
+
+---------- TPT_MOD.BAS: 119
+
+C:\Oge\VBA>find /v /c ""  UnderVoltage_MOD.bas 
+
+---------- UNDERVOLTAGE_MOD.BAS: 31
+
+C:\Oge\VBA>find /v /c ""  UsageTracker_MOD.bas 
+
+---------- USAGETRACKER_MOD.BAS: 31
+
+C:\Oge\VBA>find /v /c ""  Utillib_MOD.bas 
+
+---------- UTILLIB_MOD.BAS: 191
+
+C:\Oge\VBA>find /v /c ""  VKWH_MOD.bas 
+
+---------- VKWH_MOD.BAS: 204
+
+C:\Oge\VBA>find /v /c ""  VlookupSheetMerge_MOD.bas 
+
+---------- VLOOKUPSHEETMERGE_MOD.BAS: 39
+
+C:\Oge\VBA>find /v /c ""  Vlookup_MOD.bas 
+
+---------- VLOOKUP_MOD.BAS: 37
+
+C:\Oge\VBA>find /v /c ""  ZipCodeColumn_MOD.bas 
+
+---------- ZIPCODECOLUMN_MOD.BAS: 35
