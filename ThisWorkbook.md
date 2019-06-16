@@ -8,27 +8,27 @@
 '-----------------------------------------------------------------------------
 ' Update target Workbook / Worksheet
 '
-Private function Workbook_Activate()
+Private Sub Workbook_Activate()
     On Error Resume Next
     WBUse = Application.Windows(2).Caption
     Call SetActiveWorkbook(Application.Windows(2).Caption)
     Call SetActiveSheet(Workbooks(WBUse).ActiveSheet.Name)
-End function
+End Sub
 
-Private function Workbook_Deactivate()
+Private Sub Workbook_Deactivate()
     On Error Resume Next
     Call SetActiveWorkbook(ActiveWorkbook.Name)
     Call SetActiveSheet(Workbooks(ActiveWorkbook.Name).ActiveSheet.Name)
-End function
+End Sub
 
 '------------------------------------------------------------------------------
 ' Erase password on Save / Close
 '
-Private function Workbook_BeforeClose(Cancel As Boolean)
+Private Sub Workbook_BeforeClose(Cancel As Boolean)
     ThisWorkbook.Sheets("TopSheet").Cells(1, 1) = "" ' erase password
-End function
+End Sub
 
-Private function Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean)
+Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean)
     ThisWorkbook.Sheets("TopSheet").Cells(1, 1) = "" ' erase password
-End function
+End Sub
 </pre>
